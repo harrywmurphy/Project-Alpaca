@@ -1,0 +1,13 @@
+tickers: [SPY, QQQ, AAPL, MSFT, NVDA, AMD, JPM]
+
+db_path: db/market_data.db
+
+strategy: Trend Following
+default_qty: 10
+
+risk:
+  max_position_shares: 50
+  max_notional_per_order: 15000
+  max_portfolio_exposure_pct: 0.60
+  stop_loss_pct: 0.05
+  take_profit_pct: 0.10

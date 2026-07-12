@@ -1,0 +1,14 @@
+alpaca-py==0.33.0
+websockets==13.1
+python-dotenv
+PyYAML
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+plotly
+streamlit
+requests
+pytz
+pytest
