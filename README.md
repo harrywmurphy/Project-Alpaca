@@ -2,6 +2,9 @@
 
 Live, systematic trading system built with Alpaca's trading API. We created 3 trading strategies along with an ML Random Forest signal and created an engine to deploy them in Alpaca's paper trading environment. Our system also collects live and historical bid/ask data, and the data collection allowed us to create a backtester to gauge the performance of our signals historically. Going into this project, we were hoping to develop a feel for how high frequency traders and quantitative traders build an environment to create, test, and deploy their trading strategies. 
 
+## VIDEO WALKTHROUGH
+LINK: https://drive.google.com/file/d/1mOUPl-I5TUzaisU56DYybi8J88PiYNBP/view?usp=sharing
+
 ## Setup
 
 ```bash
